@@ -3,6 +3,18 @@
 
 ----
 
+## Abstraction Approaches
+Here are the current ideas that I have:
+- Agent-based model (ABM) of neurotransmitters between pre- and post- synaptic nerves (connecting axon terminals to dendrites) to see how differences in concentrations of glutamate and GABA ($\gamma$-aminobutryate acid) affects the action potetials and global likelihood for excitation in neurons. *This would be close-up and hyper-local; the outputted probability from this could then be the input for a grid graph that could be rendered in a similar way to Bernoucilli percolation.*
+- A more global design where the network has naturally, randomly occurring electrical impulses that propagates through the network (indicated by a highlighted node). The control variables are the E/I balance (and later mutations within certain cells) so that the global patterns are showed in this model.
+
+**With these models, I need to re-evaluate why it is necessary to develop them:**
+- Educational & introductory into the more technical aspects of epilepsy.
+- Could collaborate with others on the other aspects of this tool (and reach out to agencies ... why?)
+
+
+*I have decided to progress with the network model as it will be the easiest to complete in a short amount of time and still has a high roof: I will be able to add additional complexity (with probabilities for excitation, speed of propagation and UI controls).* **The ABM can come later with more detailed understanding and can be animated in a similar manner to - for example - Kurzgesagt's abstractions of biological complexity.**
+
 https://www.sciencedirect.com/science/article/abs/pii/S105381191200941X
 
 **This is effectively what I am trying to make but I cannot access it at all so I might have to ask people in the discord if they have access to it so that it can be cited**
