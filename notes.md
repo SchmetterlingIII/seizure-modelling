@@ -3,6 +3,19 @@
 
 ----
 
+# Open Questions
+
+# Literature Connections
+### Epilepsy-Alzheimer's Link
+
+# Meeting Notes
+
+
+
+
+
+
+
 ## Abstraction Approaches
 Here are the current ideas that I have:
 - Agent-based model (ABM) of neurotransmitters between pre- and post- synaptic nerves (connecting axon terminals to dendrites) to see how differences in concentrations of glutamate and GABA ($\gamma$-aminobutryate acid) affects the action potetials and global likelihood for excitation in neurons. *This would be close-up and hyper-local; the outputted probability from this could then be the input for a grid graph that could be rendered in a similar way to Bernoucilli percolation.*
