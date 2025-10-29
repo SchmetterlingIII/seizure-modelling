@@ -35,7 +35,11 @@ This seems like the best approach for applying heterogeneity and now I will be c
 - How to interpret/represent this information
 - What other factors are the reasons for the hetergeneity of neurons?
 - How to code probabilities with the concentration of glutamate/GABA?
-- Hodgkin-Huxley models (and try to understand their functioning since, on a local level, this would be helpful to understand propagation)
+- `Hodgkin-Huxley Model` (and try to understand their functioning since, on a local level, this would be helpful to understand propagation)
+- Other models (came across the `Izhikevich Neuron Model` and I will try to code this out to understand its mechanisms - given that existing things have been created by researchers, it is better to leverage them. If all models are *theoretically* better than what I wish to do (which it seems like it), I will focus on the research into hypersynchronocity and develop an educational tool for this hyperspecific point of research).
+  - https://hub.2i2c.mybinder.org/user/brian-team-brian2-binder-ul8m9sx2/notebooks/demo.ipynb
+  - https://share.google/crnJu9E7H59CAJPQi
+
 
 
 
